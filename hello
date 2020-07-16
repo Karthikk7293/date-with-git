@@ -4,4 +4,11 @@ and this is feature branch
 this is the second time edit
 
 
+<<<<<<< HEAD
 again i added some words for include the recurse merge and this is from the master branch
+=======
+
+
+
+ this file is modified by recursive merge
+>>>>>>> feature
